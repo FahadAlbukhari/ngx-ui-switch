@@ -138,7 +138,7 @@ export class AppModule {
 
 
 ```html
-<ui-switch defaultBgColor="black"></ui-switch>
+<ui-switch defaultBoColor="black"></ui-switch>
 ```
 
 
